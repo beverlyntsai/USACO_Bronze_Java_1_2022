@@ -1,0 +1,7 @@
+6
+16 Bessie +9
+2 Bessie +1
+7 Elsie +6
+12 Mildred -4
+3 Mildred +3
+10 Elsie -3
